@@ -32,18 +32,18 @@ basic_info:
     stack-overflow: 
 
     
-    languages:
-      - idiom: Español
-        level: Native
+languages:
+  - idiom: Español
+    level: Native
+  - idiom: Ingles
+    level: A2
 
-    # Interests or hobbies
-    interests:
-      - item: Camping
-
-      - item: Fotografía
-
-      - item: Cocina
-
+# Interests or hobbies
+interests:
+  - item: Camping
+  - item: Fotografía
+  - item: Cocina
+  - item: Viajar
 # Your previous education
 education:
     - degree: Arquitecto
